@@ -37,9 +37,7 @@ function Abas() {
         tabBarStyle: {
           backgroundColor: cores.card,
           borderTopColor: cores.borda,
-          paddingTop: 6,
         },
-        tabBarLabelStyle: { fontWeight: '700', fontSize: 12 },
       }}
     >
       {/* aba de cadastro de lembrete */}
